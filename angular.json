@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BTLangular"
+    }
+  },
+  "defaultProject": "BTLangular",
+  "cli": {
+    "analytics": "091c9891-1b63-4c3a-add9-8567401b320e"
+  }
 }
